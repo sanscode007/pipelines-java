@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/KLA-MACH/Klarity%20Defect/_apis/build/status/sanscode007.pipelines-java?branchName=main)](https://dev.azure.com/KLA-MACH/Klarity%20Defect/_build/latest?definitionId=254&branchName=main)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
